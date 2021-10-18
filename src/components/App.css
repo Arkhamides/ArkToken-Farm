@@ -1,0 +1,10 @@
+/* Styles go here */
+.navbar {
+    height: 80px;
+    background-color: black;
+    margin-bottom: 500px;
+}
+
+.main-body {
+    margin-top: 5rem;
+}
