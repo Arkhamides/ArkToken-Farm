@@ -19,5 +19,5 @@ Finally dont forget to deploy the contracts.
 
 What Next?
 
-There are 2 smart contracts in my code that have not been deployed. Both are NFT's that I am currently developping and learning how to develop.
-I expect in a week or 2 to have 1 completed.
+- NFT's that I am currently developping and learning how to develop.
+- Experimenting with different contracts
